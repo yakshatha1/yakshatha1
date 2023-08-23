@@ -17,11 +17,11 @@ I'm a passionate Java developer interested in building robust and scalable softw
 - C/C++
 - HTML, CSS 
 - Problem Solving
-- 
+  
 ## Coding Platforms
--Leetcode:[yakshathapoojari1](https://leetcode.com/yakshathapoojari1/)
--Hankerrank:[yakshathapoojari1](https://www.hackerrank.com/yakshathapoojar1)
--GeeksforGeeks:[yakshathapoojari1](https://auth.geeksforgeeks.org/user/yakshathapoojari1/)
+- Leetcode:[yakshathapoojari1](https://leetcode.com/yakshathapoojari1/)
+- Hankerrank:[yakshathapoojari1](https://www.hackerrank.com/yakshathapoojar1)
+- GeeksforGeeks:[yakshathapoojari1](https://auth.geeksforgeeks.org/user/yakshathapoojari1/)
 
 I'm always open to connecting with fellow developers and industry professionals. Feel free to reach out to me on:
 
