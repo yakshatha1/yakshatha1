@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning and growing my Java skills.
 - 👩‍🎓 I recently graduated with a degree in Bachelor's of Engineering.
-- 💼 I'm actively seeking junior Java developer roles to kickstart my career.
+- 💼 I'm actively seeking junior Java developer roles to kickstart my career. <img src="https://github.com/yakshatha1/yakshatha1/blob/main/animegirl.gif" width="30">
 - 💡 I enjoy solving complex problems and turning ideas into functional code.
 - 📚 I'm a continuous learner and believe in the power of knowledge sharing.
 
