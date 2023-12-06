@@ -1,6 +1,16 @@
 
-## Hello yakshatha Here
-I'm a passionate Java developer interested in building robust and scalable software solutions. As a fresher, I'm eager to learn and contribute to exciting projects. Here's a little bit about me:
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yakshatha </h1>
+<h4 align="center"> I'm a passionate Java developer interested in building robust and scalable software solutions. As a fresher, I'm eager to learn and contribute to exciting projects. Here's a little bit about me:
+</h4>
+</div>
+
+<div align="center">
+  <a href="https://yakshatha-port.netlify.app">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 - 🌱 I’m currently learning and growing my Java skills.
 - 👩‍🎓 I recently graduated with a degree in Bachelor's of Engineering.
