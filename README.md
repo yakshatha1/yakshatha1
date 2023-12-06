@@ -1,13 +1,13 @@
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yakshatha </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/yakshatha1/yakshatha1/blob/main/waving.gif">, I'm Yakshatha </h1>
 <h4 align="center"> I'm a passionate Java developer interested in building robust and scalable software solutions. As a fresher, I'm eager to learn and contribute to exciting projects. Here's a little bit about me:
 </h4>
 </div>
 
 <div align="center">
   <a href="https://yakshatha-port.netlify.app">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/yakshatha1/yakshatha1/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
