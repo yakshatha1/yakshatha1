@@ -1,4 +1,18 @@
-# Hello, I'm Yakshatha Poojari 👋
+<img src="https://yakshatha-port.netlify.app">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yakshatha </h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 I'm a passionate Java developer interested in building robust and scalable software solutions. As a fresher, I'm eager to learn and contribute to exciting projects. Here's a little bit about me:
 
