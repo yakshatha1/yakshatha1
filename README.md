@@ -17,7 +17,7 @@
   
 - 👩‍🎓 I recently graduated with a degree in Bachelor's of Engineering.
   
-- 💼 I'm actively seeking junior Java developer roles to kickstart my career.
+- 💼 I completed an internship at Cognizant where I developed Java applications, automated testing processes using TestNG and Selenium, and implemented BDD with Cucumber.
   
 - 💡 I enjoy solving complex problems and turning ideas into functional code.
   
@@ -35,7 +35,14 @@
 
 - Java
 - Object-Oriented Programming (OOP)
-- Git and GitHub
+- Java
+- SQL
+- JSON
+- XML
+- JavaScript
+- TestNG
+- Selenium
+- BDD with Cucumber
 - SQL and Database Management
 - C/C++
 - HTML, CSS 
