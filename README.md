@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/yakshatha1/yakshatha1/blob/main/waving.gif">, I'm Yakshatha <img src="https://github.com/yakshatha1/yakshatha1/blob/main/animegirl.gif" width="80"> </h1>
-<h4 align="center">I'm a passionate Java developer interested in building strong and scalable software. As a fresher, I'm eager to learn and work on exciting projects. Here's a bit about me:
+<h4 align="center">I'm a passionate abt coding interested in building strong and scalable software. As a fresher, I'm eager to learn and work on exciting projects. Here's a bit about me:
 </h4>
 </div>
 
