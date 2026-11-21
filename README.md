@@ -1,83 +1,89 @@
-
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/yakshatha1/yakshatha1/blob/main/waving.gif">, I'm Yakshatha <img src="https://github.com/yakshatha1/yakshatha1/blob/main/animegirl.gif" width="80"> </h1>
-<h4 align="center">I'm a passionate abt coding interested in building strong and scalable software. As a fresher, I'm eager to learn and work on exciting projects. Here's a bit about me:
-</h4>
+
+# Hi 👋, I'm Yakshatha Poojari
+
+### QA Automation Engineer | SDET
+
+**2+ years in Banking & Financial Services · Java · Selenium · TestNG · Cucumber BDD · API Testing**
+
+📍 Mumbai, India
+
 </div>
 
+---
+
+## 👩‍💻 About Me
+
+- 🧪 QA Engineer with 2+ years of experience testing banking and payment applications in Agile teams.
+- 🤖 I build automation frameworks with **Java, Selenium WebDriver, TestNG, Cucumber (BDD) and the Page Object Model**.
+- 🔌 I test APIs with **Postman** and validate backend data with **SQL (MySQL)**.
+- ⚙️ I work with **Git, Maven and Jenkins** for version control and CI/CD.
+- 🧠 I use AI tools (Claude, GitHub Copilot) to speed up test design, test data and documentation.
+- 🎯 Currently looking for **SDET / QA Automation Engineer** roles.
+
+---
+
+## 🧪 Automation Projects
+
+| Project | What it covers | Tech |
+|---|---|---|
+| [Cognizant-New-Identify-Bikes-Project](https://github.com/yakshatha1/Cognizant-New-Identify-Bikes-Project) | BDD test suite (75+ test cases) for vehicle specifications, pricing, variants and comparisons; cross-browser runs on Chrome and Firefox | Java, Selenium, TestNG, Cucumber, Maven |
+| [Cognizant-Outreach-Project](https://github.com/yakshatha1/Cognizant-Outreach-Project) | Automation framework for an event management platform (60+ test cases): workflows, navigation, UI interactions, search filters, reports | Java, Selenium, TestNG, POM |
+
+---
+
+## 🛠️ Skills
+
+**Automation:** Selenium WebDriver · TestNG · Cucumber (BDD) · Gherkin · Page Object Model
+
+**Languages:** Java · SQL · JavaScript · C/C++
+
+**Testing:** Functional · Regression · Integration · API · UAT · Database · Cross-Browser
+
+**Tools:** Postman · Jira · Git · GitHub · Maven · Jenkins · MySQL · Docker (basics)
+
+**Methodologies:** Agile/Scrum · SDLC · STLC · BDD · CI/CD
+
+**Domain:** Banking & Financial Services · Payment Systems
+
+---
+
+## 🏆 Certifications
+
+- Claude Certified Architect (Foundations), Anthropic
+- Oracle Cloud Infrastructure Foundations Associate, Oracle
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://yakshatha-port.netlify.app">
-  <img  src="https://github.com/yakshatha1/yakshatha1/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yakshatha1&show_icons=true&theme=algolia" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshatha1&theme=algolia&layout=compact" width="40%" alt="Top languages" />
+
 </div>
 
-<img align="right" alt="Coding" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-- 🌱 I’m currently learning and growing my Java skills.
-  
-- 👩‍🎓 I recently graduated with a degree in Bachelor's of Engineering.
-  
-- 💼 I completed an internship at Cognizant where I developed Java applications, automated testing processes using TestNG and Selenium, and implemented BDD with Cucumber.
-  
-- 💡 I enjoy solving complex problems and turning ideas into functional code.
-  
-- 📚 I'm a continuous learner and believe in the power of knowledge sharing.
-  <br>
+## 🧩 Problem Solving
 
-  <h1 align="center"> Statistical Data 📊 </h1>
+I practise data structures and algorithms in Java: [Leetcode-and-geeksforgeeks](https://github.com/yakshatha1/Leetcode-and-geeksforgeeks)
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakshatha1&theme=algolia" width="500" height="250">|<img width="450" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshatha1&theme=algolia&layout=compact">|
+<a href="https://leetcode.com/yakshathapoojari1/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/yakshathapoojar1"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat&logo=hackerrank&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yakshathapoojari1/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 
+---
 
-## Skills and Technologies
+## 📫 Connect with me
 
-- Java
-- Object-Oriented Programming (OOP)
-- Java
-- SQL
-- JSON
-- XML
-- JavaScript
-- TestNG
-- Selenium
-- BDD with Cucumber
-- SQL and Database Management
-- C/C++
-- HTML, CSS 
-- Problem Solving
-  
- ### Competitive Programming & Problem Solving
- 
-<p align="left">
- &emsp;
-    <a href="https://leetcode.com/yakshathapoojari1/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="https://www.hackerrank.com/yakshathapoojar1"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
- <a href="https://auth.geeksforgeeks.org/user/yakshathapoojari1/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  	
-</p>
+<a href="mailto:yakshathapoojari1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/yakshatha-poojari-872a53206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://yakshatha-port.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 
- 
-## Languages and Tools:
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<div align="center">
 
-## Connect with me
+Let's learn and grow together! 🚀
 
-<p align="Left">
-	<a href="mailto:yakshathapoojari1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/yakshatha1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/yakshatha-poojari-872a53206/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/__yakshatha__/?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-  
-Let's learn and grow together! 👩‍💻
-
-<!---
-yakshatha1/yakshatha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
